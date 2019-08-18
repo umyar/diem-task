@@ -10,10 +10,24 @@
   font-size: 1.5rem !important;
 }
 
+.MuiSvgIcon-root {
+  width: 1.5em !important;
+  height: 1.5em !important;
+}
+
 .MuiTypography-body1 {
   font-size: 1.5rem !important;
 }
 
 .MuiChip-root {
   font-size: 1.5rem !important;
+  line-height: 1.5rem;
+}
+
+aside nav .MuiButtonBase-root {
+  justify-content: start !important;
+}
+
+aside nav .MuiButton-text {
+  padding: 0.5rem 3rem;
 }
