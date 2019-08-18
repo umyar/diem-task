@@ -1,0 +1,19 @@
+.MuiInput-underline:after {
+  border-bottom: 2px solid gray !important;
+}
+
+.MuiInput-underline:hover:not(.Mui-disabled):before {
+  border-bottom: 2px solid darkgray !important;
+}
+
+.MuiInputBase-input {
+  font-size: 1.5rem !important;
+}
+
+.MuiTypography-body1 {
+  font-size: 1.5rem !important;
+}
+
+.MuiChip-root {
+  font-size: 1.5rem !important;
+}
